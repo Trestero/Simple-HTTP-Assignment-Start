@@ -1,0 +1,24 @@
+{
+  "name": "simple-http-assignment-start",
+  "version": "1.0.0",
+  "description": "Simple HTTP server to be hosted on Heroku",
+  "main": "./src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trestero/Simple-HTTP-Assignment-Start.git"
+  },
+  "author": "Tom Slavin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Trestero/Simple-HTTP-Assignment-Start/issues"
+  },
+  "homepage": "https://github.com/Trestero/Simple-HTTP-Assignment-Start#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.20.0"
+  }
+}
